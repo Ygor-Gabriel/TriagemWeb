@@ -1,0 +1,284 @@
+{
+  "user": [
+    {
+      "nome": "TESTE COM NUM",
+      "cpf": "321.123.123-12",
+      "email": "teste@tre.com",
+      "senha": "123321",
+      "ca": "321.12",
+      "tipo": "administrador",
+      "id": 1
+    },
+    {
+      "nome": "MEDICO DA PAZ",
+      "cpf": "123.321.123-32",
+      "email": "med@med.com",
+      "senha": "123321",
+      "crm": "123321",
+      "uf": "PB",
+      "tipo": "medico",
+      "id": 2
+    },
+    {
+      "nome": "NOVO ENFERMEIRO",
+      "cpf": "123.321.312-31",
+      "email": "enfermeiro@enf.com",
+      "senha": "123321",
+      "coren": "312312",
+      "uf": "CE",
+      "tipo": "enfemeiro",
+      "id": 3
+    },
+    {
+      "nome": "ENFERMEIRO",
+      "cpf": "312.131.231-23",
+      "email": "test@tes.com",
+      "senha": "123112",
+      "coren": "213312",
+      "uf": "AM",
+      "tipo": "enfemeiro",
+      "id": 4
+    },
+    {
+      "nome": "MEDICO",
+      "cpf": "123.123.123-11",
+      "email": "medico@test.com",
+      "senha": "1231231",
+      "crm": "000000",
+      "uf": "AM",
+      "tipo": "medico",
+      "id": 5
+    },
+    {
+      "nome": "ENFERMEIRO",
+      "cpf": "123.213.123-13",
+      "email": "test@tes.com",
+      "senha": "1231231",
+      "coren": "000000",
+      "uf": "AP",
+      "tipo": "enfermeiro",
+      "id": 6
+    },
+    {
+      "nome": "ENFERMEIRO DOIS",
+      "cpf": "321.312.313-21",
+      "email": "tesda@tes.com",
+      "senha": "2131231",
+      "coren": "213311",
+      "uf": "ES",
+      "tipo": "enfermeiro",
+      "id": 7
+    },
+    {
+      "nome": "ADM EDIT",
+      "cpf": "123.321.123-12",
+      "email": "adm@edit.com",
+      "senha": "123123",
+      "ca": "123.32",
+      "tipo": "administrador",
+      "id": 8
+    }
+  ],
+  "administrador": [
+    {
+      "nome": "TESTE COM NUM",
+      "cpf": "321.123.123-12",
+      "nascimento": "10/10/2001",
+      "telefone": "(00) 00000-0000",
+      "residencia": "CENTRO, GUARABIRA, 2023",
+      "ca": "321.12",
+      "email": "teste@tre.com",
+      "senha": "123321",
+      "id": 1
+    },
+    {
+      "nome": "TESTE ADMIN",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "telefone": "(00) 00000-0000",
+      "residencia": "CENTRO, GUARABIRA, 2023",
+      "ca": "321.12",
+      "email": "recp@2gma.com",
+      "senha": "123321",
+      "id": 2
+    },
+    {
+      "nome": "ADM EDIT",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/12/1990",
+      "telefone": "(83) 00000-0000",
+      "residencia": "CENTRO - GUARABIRA - 12",
+      "ca": "123.32",
+      "email": "adm@edit.com",
+      "senha": "123123",
+      "id": 3
+    }
+  ],
+  "recepcionista": [
+    {
+      "nome": "TESTE RECEPCIONISTA",
+      "cpf": "123.321.123-32",
+      "nascimento": "01/10/2001",
+      "telefone": "(00) 00000-0000",
+      "residencia": "CENTRO, -D. 2023",
+      "cr": "123.32",
+      "email": "recp@tes.com",
+      "senha": "123321",
+      "id": 1
+    },
+    {
+      "nome": "TESTE RECEPCIONISTA DOIS",
+      "cpf": "123.321.123-32",
+      "nascimento": "01/10/2001",
+      "telefone": "(00) 00000-0000",
+      "residencia": "CENTRO, -D. 2023",
+      "cr": "123.32",
+      "email": "recp@2gma.com",
+      "senha": "123321",
+      "id": 2
+    }
+  ],
+  "enfermeiro": [
+    {
+      "nome": "ENFERMEIRO",
+      "cpf": "123.213.123-13",
+      "nascimento": "20/10/2000",
+      "telefone": "(00) 00000-0000",
+      "coren": "000000",
+      "uf": "AP",
+      "email": "test@tes.com",
+      "senha": "1231231",
+      "id": 1
+    },
+    {
+      "nome": "ENFERMEIRO DOIS",
+      "cpf": "321.312.313-21",
+      "nascimento": "01/01/2001",
+      "telefone": "(00) 00000-0000",
+      "coren": "213311",
+      "uf": "ES",
+      "email": "tesda@tes.com",
+      "senha": "2131231",
+      "id": 2
+    }
+  ],
+  "medico": [
+    {
+      "nome": "MEDICO DA PAZ",
+      "cpf": "123.321.123-32",
+      "nascimento": "11/01/2001",
+      "telefone": "(00) 00000-0000",
+      "crm": "123321",
+      "uf": "PB",
+      "email": "med@med.com",
+      "senha": "123321",
+      "id": 1
+    },
+    {
+      "nome": "MEDICO",
+      "cpf": "123.123.123-11",
+      "nascimento": "01/01/2000",
+      "telefone": "(83) 00000-0000",
+      "crm": "000000",
+      "uf": "AM",
+      "email": "medico@test.com",
+      "senha": "1231231",
+      "id": 2
+    }
+  ],
+  "paciente": [
+    {
+      "nome": "PACIENTE HOSPITALAURO",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "telefone": "(83) 00000-0000",
+      "id": 1
+    },
+    {
+      "nome": "PACIENTE EDIT",
+      "cpf": "123.321.123-12",
+      "nascimento": "12/12/2012",
+      "telefone": "(83) 00000-0000",
+      "residencia": "CENTRO - GUARABIRA - 12",
+      "id": 2
+    }
+  ],
+  "triagem": [
+    {
+      "nome": "TESTE PACIENTE",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "classificacao": "VERMELHO",
+      "pressao": "213/112",
+      "temperatura": "36.8",
+      "frequencia": "3123",
+      "id": 1
+    },
+    {
+      "nome": "PACIENTE EDIT",
+      "cpf": "123.321.123-12",
+      "nascimento": "12/12/2012",
+      "residencia": "CENTRO - GUARABIRA - 12",
+      "classificacao": "AZUL",
+      "pressao": "112/122",
+      "temperatura": "36.8",
+      "frequencia": "312",
+      "id": 2
+    },
+    {
+      "nome": "TESTE PACIENTE",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "classificacao": "AMARELO",
+      "pressao": "112/122",
+      "temperatura": "40.0",
+      "frequencia": "213",
+      "id": 3
+    },
+    {
+      "nome": "TESTE PACIENTE",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "classificacao": "VERDE",
+      "pressao": "213/112",
+      "temperatura": "35.2",
+      "frequencia": "123",
+      "id": 4
+    },
+    {
+      "nome": "TESTE PACIENTE",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "classificacao": "VERMELHO",
+      "pressao": "213/112",
+      "temperatura": "40.0",
+      "frequencia": "212",
+      "id": 5
+    },
+    {
+      "nome": "TESTE PACIENTE",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "classificacao": "AZUL",
+      "pressao": "213/112",
+      "temperatura": "36.8",
+      "id": 6
+    },
+    {
+      "nome": "TESTE PACIENTE",
+      "cpf": "123.321.123-12",
+      "nascimento": "10/10/2001",
+      "residencia": "IFPB, GUARABIRA, 2023",
+      "classificacao": "VERMELHO",
+      "pressao": "213/112",
+      "temperatura": "36.8",
+      "id": 7
+    }
+  ]
+}
